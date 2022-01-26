@@ -1,0 +1,7 @@
+{
+  "name": "NodeBot",
+  "description": "Node js Bot",
+  "repository": "https://github.com/midlajppm/NodeBot",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
