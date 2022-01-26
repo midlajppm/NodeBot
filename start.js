@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const bot = new Telegraf('5294208119:AAGkauZmQxilZQJf-UFiW4Eafzl6BsBCI-I');
+const bot = new Telegraf(process.env.BOT_TOKEN)
 
 Bot.command('start', async ctx => {
 var params = ctx.message.text.split(" ")[1]
